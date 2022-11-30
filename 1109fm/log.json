@@ -1,0 +1,76 @@
+--2022-11-09 10:24:40--  https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json
+Resolving raw.fastgit.org... 195.201.88.86
+Connecting to raw.fastgit.org|195.201.88.86|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3269 (3.2K) [text/plain]
+Saving to: ‘1109fm.json’
+
+     0K ...                                                   100%  110M=0s
+
+2022-11-09 10:24:41 (110 MB/s) - ‘1109fm.json’ saved [3269/3269]
+
+--2022-11-09 10:24:41--  http://home.jundie.top:81/Cat/tv/live.txt
+Resolving home.jundie.top... --2022-11-09 10:24:41--  https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json
+118.113.13.106
+Connecting to home.jundie.top|118.113.13.106|:81... connected.
+HTTP request sent, awaiting response... Resolving ghproxy.com... 141.147.152.25
+Connecting to ghproxy.com|141.147.152.25|:443... 200 OK
+Length: 297422 (290K) [text/plain]
+Saving to: ‘tvboxhh/1109fm/live.txt’
+
+     0K .......... .......... .......... .......... .......... 17%  755K 0s
+    50K .......... .......... .......... .......... .......... 34% 1.41M 0s
+   100K .......... .......... .......... .......... .......... 51% 3.43M 0s
+   150K .......... .......... .......... .......... .......... 68% 6.47M 0s
+   200K .......... .......... .......... .......... .......... 86% 1.79M 0s
+   250K .......... .......... .......... ..........           100% 10.6M=0.2s
+
+2022-11-09 10:24:41 (1.85 MB/s) - ‘tvboxhh/1109fm/live.txt’ saved [297422/297422]
+
+connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 653 [text/plain]
+Saving to: ‘tvboxhh/1109fm/json/alist.json’
+
+     0K                                                       100% 27.9M=0s
+
+2022-11-09 10:24:43 (27.9 MB/s) - ‘tvboxhh/1109fm/json/alist.json’ saved [653/653]
+
+--2022-11-09 10:24:43--  https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json
+Resolving ghproxy.com... 141.147.152.25
+Connecting to ghproxy.com|141.147.152.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 807 [text/plain]
+Saving to: ‘tvboxhh/1109fm/json/bili.json’
+
+     0K                                                       100% 18.6M=0s
+
+2022-11-09 10:24:44 (18.6 MB/s) - ‘tvboxhh/1109fm/json/bili.json’ saved [807/807]
+
+--2022-11-09 10:24:44--  http://home.jundie.top:666/token.txt
+Resolving home.jundie.top... 118.113.13.106
+Connecting to home.jundie.top|118.113.13.106|:666... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 32 [text/plain]
+Saving to: ‘tvboxhh/1109fm/home.jundie.top_666/token.txt’
+
+     0K                                                       100% 1.43M=0s
+
+2022-11-09 10:24:44 (1.43 MB/s) - ‘tvboxhh/1109fm/home.jundie.top_666/token.txt’ saved [32/32]
+
+--2022-11-09 10:24:44--  https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar
+Resolving ghproxy.com... 141.147.152.25
+Connecting to ghproxy.com|141.147.152.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 274319 (268K) [application/octet-stream]
+Saving to: ‘tvboxhh/1109fm/custom_spider.jar’
+
+     0K .......... .......... .......... .......... .......... 18%  142K 2s
+    50K .......... .......... .......... .......... .......... 37%  294K 1s
+   100K .......... .......... .......... .......... .......... 55%  656K 0s
+   150K .......... .......... .......... .......... .......... 74%  684K 0s
+   200K .......... .......... .......... .......... .......... 93%  870K 0s
+   250K .......... .......                                    100% 1.57M=0.7s
+
+2022-11-09 10:24:47 (362 KB/s) - ‘tvboxhh/1109fm/custom_spider.jar’ saved [274319/274319]
+

@@ -1,0 +1,8 @@
+[
+  "AList,json,alist.json,https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json",
+  "哔哩,json,bili.json,https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json",
+  "紙條,home.jundie.top_666,token.txt,http://home.jundie.top:666/token.txt",
+  "易搜,home.jundie.top_666,token.txt,http://home.jundie.top:666/token.txt",
+  "盤搜,home.jundie.top_666,token.txt,http://home.jundie.top:666/token.txt",
+  "推送,home.jundie.top_666,token.txt,http://home.jundie.top:666/token.txt"
+]
